@@ -1,3 +1,31 @@
-New repo to learn GitHub, add more text after.
+# Project Name
 
-n effort in recent months by Donald Trump to rewrite the history of the 2016 US presidential election and set up a 2020 re-election victory was more geographically sprawling and reliant on the day-to-day participation of top cabinet members than previously reported, it emerged on Monday.
+TODO: Write a project description
+
+## Installation
+
+TODO: Describe the installation process
+
+## Usage
+
+TODO: Write usage instructions
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
+
+## History
+
+TODO: Write history
+
+## Credits
+
+TODO: Write credits
+
+## License
+
+TODO: Write license
