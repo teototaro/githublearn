@@ -23,5 +23,3 @@ Write credits
 ## License
 
 Write license
-##
-asasa
