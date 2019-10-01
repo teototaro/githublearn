@@ -1,6 +1,4 @@
-# Project Name
-
-TODO: Write a project description
+# Learn to use GitHub
 
 ## Installation
 
