@@ -1,12 +1,8 @@
 # Learn to use GitHub
 
-## Installation
-
-TODO: Describe the installation process
-
 ## Usage
 
-TODO: Write usage instructions
+Write usage instructions
 
 ## Contributing
 
@@ -18,12 +14,12 @@ TODO: Write usage instructions
 
 ## History
 
-TODO: Write history
+Write history
 
 ## Credits
 
-TODO: Write credits
+Write credits
 
 ## License
 
-TODO: Write license
+Write license
